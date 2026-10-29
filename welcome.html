@@ -1,0 +1,86 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Мой браузер установлен</title>
+<style>
+  * { box-sizing: border-box; margin: 0; padding: 0; }
+  body {
+    font-family: Segoe UI, Arial, sans-serif;
+    background: linear-gradient(135deg, #1e3c72 0%, #2a5298 55%, #6b8cce 100%);
+    color: #fff;
+    min-height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 20px;
+  }
+  .card {
+    background: rgba(255,255,255,.10);
+    border: 1px solid rgba(255,255,255,.25);
+    border-radius: 20px;
+    padding: 44px 48px;
+    max-width: 540px;
+    width: 100%;
+    text-align: center;
+    backdrop-filter: blur(2px);
+  }
+  .logo { width: 96px; height: 96px; margin-bottom: 22px; }
+  .check {
+    width: 72px; height: 72px;
+    border-radius: 50%;
+    background: #28c76f;
+    color: #fff;
+    font-size: 44px;
+    line-height: 72px;
+    margin: 0 auto 22px;
+    box-shadow: 0 4px 20px rgba(40,199,111,.4);
+  }
+  h1 { font-size: 28px; margin-bottom: 12px; }
+  p { font-size: 15px; line-height: 1.6; opacity: .9; margin-bottom: 26px; }
+  .note {
+    background: rgba(255,255,255,.12);
+    border-radius: 10px;
+    padding: 12px 16px;
+    font-size: 13px;
+    margin-bottom: 26px;
+    text-align: left;
+  }
+  .note b { color: #ffd84d; }
+  .btn {
+    display: inline-block;
+    background: #ffcc00;
+    color: #333;
+    font-weight: 700;
+    font-size: 16px;
+    padding: 14px 34px;
+    border-radius: 24px;
+    text-decoration: none;
+    cursor: pointer;
+    border: none;
+    transition: .15s;
+  }
+  .btn:hover { background: #ffd84d; transform: translateY(-1px); }
+  .again { margin-top: 16px; font-size: 12px; opacity: .6; }
+</style>
+</head>
+<body>
+  <div class="card">
+    <img class="logo" src="logo.png" alt="Логотип">
+    <h1>Браузер установлен!</h1>
+    <p>Спасибо, что выбрали «Мой браузер». Установка завершена успешно, всё готово к работе.</p>
+
+    <div class="note">
+      <b>Что умеет:</b><br>
+      • Открытие вкладок с сохранением сессии<br>
+      • Закладки и история<br>
+      • Поиск и быстрые ссылки<br>
+      • Современный движок для любых сайтов
+    </div>
+
+    <button class="btn" onclick="location.href='home.html'">Начать работу</button>
+    <div class="again">В дальнейшем эта страница открываться не будет.</div>
+  </div>
+</body>
+</html>

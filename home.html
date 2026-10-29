@@ -1,0 +1,122 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Главная</title>
+<style>
+  * { box-sizing: border-box; margin: 0; padding: 0; }
+  body {
+    font-family: Segoe UI, Arial, sans-serif;
+    background: linear-gradient(135deg, #1e3c72 0%, #2a5298 55%, #6b8cce 100%);
+    color: #fff;
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+    overflow: hidden;
+  }
+  .wrap {
+    flex: 1;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    padding: 20px;
+  }
+  .logo { width: 80px; height: 80px; margin-bottom: 18px; }
+  #clock {
+    font-size: 64px;
+    font-weight: 300;
+    letter-spacing: 2px;
+    margin-bottom: 8px;
+    text-shadow: 0 2px 8px rgba(0,0,0,.3);
+  }
+  #date { font-size: 18px; opacity: .85; margin-bottom: 28px; }
+  form {
+    margin-bottom: 30px;
+    display: flex;
+    width: 100%;
+    max-width: 600px;
+  }
+  input[type=text] {
+    flex: 1;
+    padding: 14px 18px;
+    font-size: 16px;
+    border: none;
+    border-radius: 24px 0 0 24px;
+    outline: none;
+    color: #333;
+  }
+  button {
+    padding: 14px 22px;
+    font-size: 16px;
+    border: none;
+    border-radius: 0 24px 24px 0;
+    background: #ffcc00;
+    color: #333;
+    font-weight: 600;
+    cursor: pointer;
+  }
+  .links {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 12px;
+    justify-content: center;
+    max-width: 720px;
+    margin-bottom: 28px;
+  }
+  .link {
+    background: rgba(255,255,255,.15);
+    color: #fff;
+    padding: 12px 20px;
+    border-radius: 16px;
+    text-decoration: none;
+    font-size: 14px;
+    transition: .2s;
+    display: inline-flex;
+    align-items: center;
+    gap: 8px;
+  }
+  .link:hover { background: rgba(255,255,255,.28); transform: translateY(-2px); }
+  .link small { opacity: .7; }
+</style>
+</head>
+<body>
+  <div class="wrap">
+    <img class="logo" src="logo.png" alt="Логотип">
+    <div id="clock"></div>
+    <div id="date"></div>
+    <form id="f" onsubmit="return go();">
+      <input type="text" id="q" placeholder="Поиск в Яндексе…" autocomplete="off"/>
+      <button type="submit">Найти</button>
+    </form>
+    <div class="links">
+      <a class="link" href="https://ya.ru">Яндекс<small>ya.ru</small></a>
+      <a class="link" href="https://google.com">Google<small>google.com</small></a>
+      <a class="link" href="https://youtube.com">YouTube<small>youtube.com</small></a>
+      <a class="link" href="https://vk.com">ВКонтакте<small>vk.com</small></a>
+      <a class="link" href="https://mail.ru">Почта<small>mail.ru</small></a>
+      <a class="link" href="https://wikipedia.org">Википедия<small>wikipedia.org</small></a>
+    </div>
+  </div>
+  <script>
+    function upd() {
+      var n = new Date();
+      function pad(x) { return x < 10 ? '0' + x : '' + x; }
+      document.getElementById('clock').textContent = pad(n.getHours()) + ':' + pad(n.getMinutes()) + ':' + pad(n.getSeconds());
+      var days = ['Воскресенье','Понедельник','Вторник','Среда','Четверг','Пятница','Суббота'];
+      var months = ['января','февраля','марта','апреля','мая','июня','июля','августа','сентября','октября','ноября','декабря'];
+      document.getElementById('date').textContent = days[n.getDay()] + ', ' + n.getDate() + ' ' + months[n.getMonth()] + ' ' + n.getFullYear();
+    }
+    setInterval(upd, 1000);
+    upd();
+    function go() {
+      var q = document.getElementById('q').value;
+      if (q.trim()) {
+        location.href = 'https://ya.ru/search/?text=' + encodeURIComponent(q);
+      }
+      return false;
+    }
+  </script>
+</body>
+</html>

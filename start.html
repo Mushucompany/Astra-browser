@@ -1,0 +1,110 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+<meta charset="utf-8">
+<title>Мой браузер — руководство</title>
+<style>
+  * { box-sizing: border-box; margin: 0; padding: 0; }
+  body {
+    font-family: Segoe UI, Arial, sans-serif;
+    background: linear-gradient(135deg, #1e3c72 0%, #2a5298 55%, #6b8cce 100%);
+    color: #fff;
+    min-height: 100vh;
+    padding: 40px 20px;
+  }
+  .wrap { max-width: 860px; margin: 0 auto; }
+  .logo {
+    width: 72px; height: 72px;
+    display: block; margin: 0 auto 20px;
+  }
+  h1 { font-size: 30px; margin-bottom: 8px; text-align: center; }
+  .sub { opacity: .85; margin-bottom: 36px; font-size: 15px; text-align: center; }
+  .card {
+    background: rgba(255,255,255,.10);
+    border: 1px solid rgba(255,255,255,.25);
+    border-radius: 16px;
+    padding: 20px 24px;
+    margin-bottom: 16px;
+    backdrop-filter: blur(2px);
+  }
+  h2 { font-size: 20px; margin-bottom: 10px; color: #ffd84d; }
+  ul { padding-left: 20px; }
+  li { margin: 6px 0; line-height: 1.5; font-size: 15px; }
+  kbd {
+    background: rgba(255,255,255,.18);
+    border: 1px solid rgba(255,255,255,.35);
+    border-bottom-width: 2px;
+    border-radius: 6px;
+    padding: 2px 8px;
+    font-family: Consolas, monospace;
+    font-size: 13px;
+    color: #fff;
+  }
+  .tip {
+    background: rgba(255, 204, 0, .15);
+    border: 1px solid rgba(255, 204, 0, .5);
+  }
+  .tip h2 { color: #ffcc00; }
+  footer { margin-top: 28px; text-align: center; opacity: .6; font-size: 13px; }
+</style>
+</head>
+<body>
+  <div class="wrap">
+    <img class="logo" src="logo.png" alt="Логотип">
+    <h1>Мой браузер</h1>
+    <p class="sub">Краткое руководство по возможностям и управлению</p>
+
+    <div class="card">
+      <h2>Запуск и вкладки</h2>
+      <ul>
+        <li><b>Новая вкладка</b> — кнопка <kbd>+</kbd> на панели сверху.</li>
+        <li><b>Закрыть вкладку</b> — кнопка <kbd>×</kbd> на вкладке, либо колесо мыши (средний клик) по вкладке.</li>
+        <li>Открытые вкладки сохраняются и восстанавливаются при следующем запуске.</li>
+      </ul>
+    </div>
+
+    <div class="card">
+      <h2>Навигация</h2>
+      <ul>
+        <li><b>Назад / Вперёд</b> — кнопки <kbd>◀</kbd> и <kbd>▶</kbd>.</li>
+        <li><b>Обновить страницу</b> — кнопка <kbd>⟳</kbd>.</li>
+        <li><b>На главную</b> — кнопка <kbd>⌂</kbd> открывает эту страницу.</li>
+        <li><b>Адресная строка</b> — введите адрес сайта и нажмите <kbd>Enter</kbd>.</li>
+      </ul>
+    </div>
+
+    <div class="card">
+      <h2>Поиск</h2>
+      <ul>
+        <li>В поле <b>«Поиск…»</b> справа введите запрос и нажмите <kbd>Enter</kbd> — откроются результаты в Яндексе.</li>
+      </ul>
+    </div>
+
+    <div class="card">
+      <h2>Закладки</h2>
+      <ul>
+        <li>Меню <b>«Закладки»</b> → <b>«Добавить в закладки»</b> — сохранить текущую страницу.</li>
+        <li><b>«Показать все»</b> — список всех закладок; двойной клик открывает страницу.</li>
+      </ul>
+    </div>
+
+    <div class="card">
+      <h2>История</h2>
+      <ul>
+        <li>Меню <b>«История»</b> — список посещённых страниц.</li>
+        <li><b>«Очистить историю»</b> — удаление истории.</li>
+      </ul>
+    </div>
+
+    <div class="card tip">
+      <h2>Совет</h2>
+      <ul>
+        <li>Браузер работает на современном движке, поэтому открывает любые обычные сайты.</li>
+        <li>Настройки и открытые вкладки хранятся в папке рядом с программой (файл <kbd>mybrowser_data.txt</kbd>).</li>
+      </ul>
+    </div>
+
+    <footer>Мой браузер • встроенное руководство</footer>
+  </div>
+</body>
+</html>

@@ -1,0 +1,37 @@
+﻿[BOOKMARKS]
+[HISTORY]
+Яндекс — быстрый поиск в интернете|https://ya.ru/
+|[SESSION]
+Яндекс — быстрый поиск в интернете|https://ya.ru/
+Яндекс — быстрый поиск в интернете|https://ya.ru/
+|[SESSION]
+Яндекс — быстрый поиск в интернете|https://ya.ru/
+Яндекс — быстрый поиск в интернете|https://ya.ru/
+ВКонтакте | Добро пожаловать|https://vk.ru/
+VK ID|https://id.vk.ru/auth?isRedesigned=1&action=eyJuYW1lIjoibm9fcGFzc3dvcmRfZmxvdyIsInRva2VuIjoiVzVuTTZkVGFPUFN4SkxHQll3bkRGb29laVo2ak9BdWp2Sk9Sei1ObnpXX1A5WEtHZU1XWU1PbU8xV1hBdDlOeU5rUmdLVVVkS2huM0J3eGhaUTNKMm9QejgxSFpSN2ZSV2JSMVpMdWxCVlduRk84S1dIQXVZTm8za0g1emdPMGZnTk1KeGhhWTZXMzJxQTFfUXJuZWJxV2RJalhsNE1aQzEtcjBMN2xxQkZkN2xzb3FEVFAtQ05uZHdmRUJRTTc4cjJ0OEFCRHlBX0EyRW4xNWljbklqTXJjLW1lSzZXWTMwVnBhNTZ3eEg2clM0bVEtR0xYU05oRUdodzZxSkFmVHNRNUcxeU1SZGFNNGVkSG8xX2hIT1EiLCJpbnB1dF90eXBlIjoicGhvbmUiLCJwYXJhbXMiOnsidHlwZSI6InNpZ25faW4iLCJjc3JmX2hhc2giOiI3NTMzYWY1MTg2MjNmOTkxNDgifX0%3D&scheme=dark&is_redesigned=1&initial_stats_info=eyJzb3VyY2UiOiJtYWluIiwic2NyZWVuIjoic3RhcnQifQ%3D%3D&uuid=aiigmq&response_type=silent_token&v=1.3.0&sdk_type=vkid&app_id=7913379&redirect_uri=https%3A%2F%2Fvk.ru%2F
+ВКонтакте | Добро пожаловать|https://vk.ru/
+VK ID|https://id.vk.ru/auth?isRedesigned=1&action=eyJuYW1lIjoibm9fcGFzc3dvcmRfZmxvdyIsInRva2VuIjoibTBmZ3kzNEUyVkFwUmY5S1hYZ1QtbHBBanhmeDVKMFYxNVBIaUoxalg3OHBfRVJ6eWU5cmhHLTlseVEyY3lCcDZlM0NfbG85Si14NDVmY0hVSkR2ZnU3V05IVjYyOFBxZmpDbG5hRkpiSXR2ODcyVVhHd2hWZVJIZWdoUkFHcVRXS0lVZGJueWxKbVUwdjBhVmpPUXZQeGhIVlRrck5Ib0h5VEVEeFFEbXlRTUdWWEV5bDRLa0dEVHd5QVFrdWFXdUwwVmRpUy1Ha1JYQ2ZxaUVrSU9YeVRiRUl3N2x0eFgzeExwLTUzSS05ZFA3eHAxWXMzS3pRNDBhd0VxU1FZYzRmYTE2U2dvSndsZXJrMzFONjVCelEiLCJpbnB1dF90eXBlIjoicGhvbmUiLCJwYXJhbXMiOnsidHlwZSI6InNpZ25faW4iLCJjc3JmX2hhc2giOiI3NTMzYWY1MTg2MjNmOTkxNDgifX0%3D&scheme=dark&is_redesigned=1&initial_stats_info=eyJzb3VyY2UiOiJtYWluIiwic2NyZWVuIjoic3RhcnQifQ%3D%3D&uuid=fadxln&response_type=silent_token&v=1.3.0&sdk_type=vkid&app_id=7913379&redirect_uri=https%3A%2F%2Fvk.ru%2F
+Wikipedia|https://www.wikipedia.org/
+Wikiversity|https://www.wikiversity.org/
+|[SESSION]
+Wikiversity|https://www.wikiversity.org/
+Wikiversity|https://www.wikiversity.org/
+|[SESSION]
+|[SESSION]
+|[SESSION]
+|[SESSION]
+|[SESSION]
+|[SESSION]
+|[SESSION]
+|[SESSION]
+|[SESSION]
+|[SESSION]
+|[SESSION]
+|[SESSION]
+Главная|file:///C:/Users/%D0%94%D0%B0%D0%BD%D0%B8%D0%B8%D0%BB/Documents/MultiTool/HomeChats/Chat-16/home.html
+|[SESSION]
+Главная|file:///C:/Users/%D0%94%D0%B0%D0%BD%D0%B8%D0%B8%D0%BB/Documents/MultiTool/HomeChats/Chat-16/home.html
+Мой браузер установлен|file:///C:/Users/%D0%94%D0%B0%D0%BD%D0%B8%D0%B8%D0%BB/Documents/MultiTool/HomeChats/Chat-16/welcome.html
+Главная|file:///C:/Users/%D0%94%D0%B0%D0%BD%D0%B8%D0%B8%D0%BB/Documents/MultiTool/HomeChats/Chat-16/home.html
+[SESSION]
+Главная|file:///C:/Users/%D0%94%D0%B0%D0%BD%D0%B8%D0%B8%D0%BB/Documents/MultiTool/HomeChats/Chat-16/home.html

@@ -1,0 +1,166 @@
+17:53:02.718 START
+17:53:02.778 EnsureCoreWebView2Async calling
+17:53:02.811 FORM_CREATED
+17:53:03.116 INIT fired isSuccess=True err=null
+17:53:03.118 NAVIGATE to StartPage (NavigateToString)
+17:53:03.370 NAVCOMPLETED ok=True err=Unknown src=about:blank
+17:55:11.923 START
+17:55:12.151 EnsureCoreWebView2Async calling
+17:55:12.179 FORM_CREATED
+17:55:13.709 START
+17:55:13.766 EnsureCoreWebView2Async calling
+17:55:13.795 FORM_CREATED
+17:55:14.112 INIT fired isSuccess=True err=null
+17:55:14.113 NAVIGATE to StartPage (NavigateToString)
+17:55:14.349 NAVCOMPLETED ok=True err=Unknown src=about:blank
+17:58:12.718 START
+17:58:12.848 EnsureCoreWebView2Async calling
+17:58:12.863 START
+17:58:12.875 FORM_CREATED
+17:58:12.934 EnsureCoreWebView2Async calling
+17:58:12.966 FORM_CREATED
+17:58:13.010 INIT fired isSuccess=True err=null
+17:58:13.012 NAVIGATE to StartPage (NavigateToString)
+17:58:13.111 INIT fired isSuccess=True err=null
+17:58:13.113 NAVIGATE to StartPage (NavigateToString)
+17:58:13.193 NAVCOMPLETED ok=True err=Unknown src=about:blank
+17:58:13.242 NAVCOMPLETED ok=True err=Unknown src=about:blank
+17:58:15.007 EXITED
+18:01:13.469 START
+18:01:13.530 EnsureCoreWebView2Async calling
+18:01:13.560 FORM_CREATED
+18:01:13.857 INIT fired isSuccess=True err=null
+18:01:13.859 NAVIGATE to StartPage (NavigateToString)
+18:01:14.121 NAVCOMPLETED ok=True err=Unknown src=about:blank
+18:05:39.488 START
+18:05:39.682 EnsureCoreWebView2Async calling
+18:05:39.713 FORM_CREATED
+18:05:40.010 INIT fired isSuccess=True err=null
+18:05:40.012 NAVIGATE to StartPage (NavigateToString)
+18:05:40.266 NAVCOMPLETED ok=True err=Unknown src=about:blank
+18:05:45.070 EXITED
+18:05:46.562 START
+18:05:46.624 EnsureCoreWebView2Async calling
+18:05:46.652 FORM_CREATED
+18:05:46.926 INIT fired isSuccess=True err=null
+18:05:46.928 NAVIGATE to StartPage (NavigateToString)
+18:05:47.182 NAVCOMPLETED ok=True err=Unknown src=about:blank
+18:06:00.467 EXITED
+18:08:55.611 START
+18:08:55.675 EnsureCoreWebView2Async calling
+18:08:55.707 FORM_CREATED
+18:08:55.991 INIT fired isSuccess=True err=null
+18:08:55.993 NAVIGATE to StartPage (NavigateToString)
+18:08:56.291 NAVCOMPLETED ok=True err=Unknown src=about:blank
+18:10:47.177 START
+18:10:47.225 EnsureCoreWebView2Async calling
+18:10:47.256 FORM_CREATED
+18:10:47.493 INIT fired isSuccess=True err=null
+18:10:47.493 NAVIGATE to StartPage (NavigateToString)
+18:10:47.561 NAVCOMPLETED ok=True err=Unknown src=about:blank
+18:11:26.487 NAVCOMPLETED ok=True err=Unknown src=https://www.google.com/
+18:11:30.950 NAVCOMPLETED ok=True err=Unknown src=https://www.google.com/search?q=%D0%BD%D0%B0%D1%80%D0%BE%D0%B4%D0%BD%D1%8B%D0%B5+%D0%BF%D1%80%D0%B8%D0%BC%D0%B5%D1%82%D1%8B+11+%D0%BE%D0%BA%D1%82%D1%8F%D0%B1%D1%80%D1%8F&sca_esv=26e82cfa4d2fadbc&sxsrf=APpeQnu8mK64RVz-WeHjDfcZrBHF0Wg-cg%3A1791731484800&source=hp&ei=HKfLapvQL-OGwPAP8sqCuQI&iflsig=ABILxe8AAAAAasu1LIHop43u5mxE7xlUV7d8xmd0Ghr4&gs_ss=1&oq=&gs_lp=Egdnd3Mtd2l6IgAqCggAGAMYjwEY6gIyChAAGAMYjwEY6gIyChAAGAMYjwEY6gIyChAuGAMYjwEY6gIyChAAGAMYjwEY6gIyChAAGAMYjwEY6gIyChAAGAMYjwEY6gIyChAAGAMYjwEY6gIyChAAGAMYjwEY6gIyChAAGAMYjwEY6gIyChAAGAMYjwEY6gJI4RdQAFgAcAF4AJABAJgBAKABAKoBALgBAcgBAJgCAaACCKgCCpgDCPEFc9JJhym1ILqSBwExoAcAsgcAuAcAwgcDMi0xyAcGgAgB&sclient=gws-wiz
+18:11:49.310 NAVCOMPLETED ok=False err=ConnectionAborted src=https://www.google.com/search?q=%D0%BD%D0%B0%D1%80%D0%BE%D0%B4%D0%BD%D1%8B%D0%B5+%D0%BF%D1%80%D0%B8%D0%BC%D0%B5%D1%82%D1%8B+11+%D0%BE%D0%BA%D1%82%D1%8F%D0%B1%D1%80%D1%8F&sca_esv=26e82cfa4d2fadbc&sxsrf=APpeQnu8mK64RVz-WeHjDfcZrBHF0Wg-cg%3A1791731484800&source=hp&ei=HKfLapvQL-OGwPAP8sqCuQI&iflsig=ABILxe8AAAAAasu1LIHop43u5mxE7xlUV7d8xmd0Ghr4&gs_ss=1&oq=&gs_lp=Egdnd3Mtd2l6IgAqCggAGAMYjwEY6gIyChAAGAMYjwEY6gIyChAAGAMYjwEY6gIyChAuGAMYjwEY6gIyChAAGAMYjwEY6gIyChAAGAMYjwEY6gIyChAAGAMYjwEY6gIyChAAGAMYjwEY6gIyChAAGAMYjwEY6gIyChAAGAMYjwEY6gIyChAAGAMYjwEY6gJI4RdQAFgAcAF4AJABAJgBAKABAKoBALgBAcgBAJgCAaACCKgCCpgDCPEFc9JJhym1ILqSBwExoAcAsgcAuAcAwgcDMi0xyAcGgAgB&sclient=gws-wiz&sei=IqfLaqGeFMLFwPAP7Ni1mA4
+18:11:59.612 NAVCOMPLETED ok=False err=ConnectionAborted src=https://www.google.com/search?q=%D1%80%D0%BE%D1%81%D1%81%D0%B8%D1%8F&sca_esv=26e82cfa4d2fadbc&sxsrf=APpeQnuie43sKIvWPaVqy8Y-DSbDJN7P2w%3A1791731490492&ei=IqfLar3PHY_YwPAPiYvykQQ&biw=1176&bih=653&gs_ssp=eJzj4tDP1TcwS8qrMmD04rnYcGHfxcaLjRd2XOwHAHJLC4A&oq=%D0%A0%D0%BE%D1%81%D1%81%D0%B8&gs_lp=Egxnd3Mtd2l6LXNlcnAiCtCg0L7RgdGB0LgqDQgAGIAEGIoFGEMYsQMyDRAuGIAEGIoFGEMYsQMyChAAGIAEGIoFGEMyDhAuGIAEGIoFGLEDGIMBMg0QABiABBiKBRhDGLEDMgoQABiABBiKBRhDMgUQABiABDIIEAAYgAQYsQMyDhAuGIAEGLQHGMcBGNEDMgsQABiABBixAxiDATIFEAAYgAQyHBAuGIAEGIoFGEMYsQMYlwUY3AQY3gQY4ATYAQJI32ZQAFi2YHADeACQAQCYAUagAf4CqgEBNrgBAcgBAPgBAZgCCqACpwmoAgrCAhAQABgDGI8BGOoCGLQC2AEBwgIQEC4YAxiPARjqAhi0AtgBAcICCxAuGIAEGLEDGIMBwgILEC4YgAQYxwEY0QPCAg4QABiABBiKBRixAxiDAcICDhAuGIAEGLEDGMcBGNEDwgIREC4YgAQYsQMYgwEYxwEY0QPCAgUQLhiABMICHRAuGIAEGLEDGMcBGNEDGJcFGNwEGN4EGOAE2AECwgIKEC4YgAQYigUYQ8ICCBAuGIAEGLEDwgIZEC4YgAQYigUYQxiXBRjcBBjeBBjgBNgBAsICEBAuGIAEGIoFGEMYsQMYgwHCAgsQLhiABBjHARivAZgDBPEFbyAie2ixHUG6BgQIARgKugYGCAIQARgUkgcFOS41LTGgB9JusgcBNrgHngPCBwUwLjIuOMgHIoAIAQ&sclient=gws-wiz-serp
+18:12:14.757 NAVCOMPLETED ok=False err=ConnectionAborted src=https://www.google.com/search?q=%D1%80%D0%BE%D1%81%D1%81%D0%B8%D1%8F%D0%BD%D0%B5+%D1%83%D1%81%D1%82%D0%B0%D0%BB%D0%B8+%D0%BE%D1%82+%D0%B2%D0%BE%D0%B9%D0%BD%D1%8B&sca_esv=26e82cfa4d2fadbc&biw=1176&bih=653&sxsrf=APpeQnvbfvn1NYvEC0PFL3KiLqkHkuhCrw%3A1791731508716&ei=NKfLareiK-HawPAPiruMkA0&oq=%D1%80%D0%BE%D1%81%D1%81%D0%B8%D1%8F%D0%BD%D0%B5&gs_lp=Egxnd3Mtd2l6LXNlcnAiENGA0L7RgdGB0LjRj9C90LUqBQgBGIAEMggQABiABBixAzIFEAAYgAQyBBAAGAMyCBAAGIAEGLQHMggQABiABBi0BzIIEAAYgAQYtAcyBRAAGIAEMgUQABiABDIFEAAYgAQyBRAAGIAESKUvUMIcWKEfcAR4AZABAJgBO6ABdKoBATK4AQHIAQD4AQGYAgKgAoIBwgIFEC4YgASYAwCIBgGSBwEyoAfrEbIHATK4B4IBwgcDMi0yyAcHgAgB&sclient=gws-wiz-serp
+18:12:17.189 NAVCOMPLETED ok=True err=Unknown src=https://www.google.com/search?q=%D1%80%D0%BE%D1%81%D1%81%D0%B8%D1%8F%D0%BD%D0%B5&biw=1176&bih=653&sca_esv=26e82cfa4d2fadbc&sxsrf=APpeQns-1fiApWAnZ1qzMRF1_Utce2Nddw%3A1791731518960&ei=PqfLaoygOuyf1fIPlP2BwAc&aep=22&udm=50&ved=2ahUKEwiMt-GFoLKXAxXsT1UIHZR-AHgQteYPegQIBhAV&cs=1&oq=%D1%80%D0%BE%D1%81%D1%81%D0%B8%D1%8F%D0%BD%D0%B5&gs_lp=Egxnd3Mtd2l6LXNlcnAiENGA0L7RgdGB0LjRj9C90LUyChAAGIAEGIoFGEMyCBAAGIAEGLEDMgQQABgDMggQABiABBi0BzIIEAAYgAQYtAcyCBAAGIAEGLQHMgUQABiABDIFEAAYgAQyBRAAGIAEMgUQABiABEizHVD1BljQF3ABeAGQAQCYAegDoAGrCaoBBzcuMS40LTG4AQHIAQD4AQGYAgigAu8HwgIKEAAYRxjWBBiwA8ICBhAAGBYYHpgDAIgGAZAGCJIHBzYuMS40LTGgB7g5sgcHNS4xLjQtMbgH7AfCBwUwLjUuM8gHE4AIAQ&sclient=gws-wiz-serp
+18:16:05.363 NAVCOMPLETED ok=False err=ConnectionAborted src=https://www.google.com/search?q=%D1%80%D0%BE%D1%81%D1%81%D0%B8%D1%8F%D0%BD%D0%B5&biw=1176&bih=653&sca_esv=26e82cfa4d2fadbc&aep=22&cs=1&prmd=ivns&sxsrf=APpeQns-2ez_ZIfl4jlZoVhHVfNxo_6Hjg:1791731534210&source=lnms&sa=X&ved=2ahUKEwi5loSNoLKXAxVOQlUIHWnUDscQ0pQJegQICBAF
+18:16:06.058 NAVCOMPLETED ok=True err=Unknown src=https://www.google.com/search?q=%D1%8F+%D1%81+%D0%BA%D0%BE%D0%BA%D0%BE%D0%B3%D0%BE+%D0%B1%D1%80%D0%B0%D1%83%D0%B7%D0%B5%D1%80%D0%B0+%D0%BF%D0%B8%D1%88%D1%83+%D1%82%D0%B5%D0%B1%D0%B5&biw=1752&bih=831&sca_esv=26e82cfa4d2fadbc&aep=22&cs=1&sxsrf=APpeQnsjKcRWuYYBDGcZq1Km7UIFy-BA8w%3A1791731736815&ei=GKjLapisMa_awPAPn_DqyAQ&udm=50&ved=2ahUKEwiYmNLtoLKXAxUvLRAIHR-4GkkQteYPegQIBhAV&oq=%D1%8F+%D1%81+%D0%BA%D0%BE%D0%BA%D0%BE%D0%B3%D0%BE+%D0%B1%D1%80%D0%B0%D1%83%D0%B7%D0%B5%D1%80%D0%B0+%D0%BF%D0%B8%D1%88%D1%83+%D1%82%D0%B5%D0%B1%D0%B5&gs_lp=Egxnd3Mtd2l6LXNlcnAiNdGPINGBINC60L7QutC-0LPQviDQsdGA0LDRg9C30LXRgNCwINC_0LjRiNGDINGC0LXQsdC1MgcQIRgKGKABMgcQIRgKGKABSOPDAVAAWPSqAXADeAGQAQCYAfIIoAHMIaoBCzE4LjEyLjEuNy0xuAEByAEA-AEBmAIjoAK0IsICCxAAGIAEGLEDGIMBwgIIEAAYgAQYsQPCAgUQABiABMICDRAAGIAEGIoFGEMYtAfCAg0QLhiABBiKBRhDGLQHwgIIEC4YgAQYtAfCAggQABiABBi0B8ICChAAGIAEGIoFGEPCAhAQLhiABBiKBRixAxiDARgKwgIIEC4YgAQYsQPCAgUQLhiABMICCxAAGIAEGLQHGMcDwgIGEAAYFhgewgIIEAAYFhgeGArCAggQABiABBiiBMICBRAhGKABwgIEECEYCsICBBAhGBWYAwCSBwsyMC4xMy4xLjctMaAH9roBsgcLMTcuMTMuMS43LTG4B68iwgcGOS4yMy4zyAc0gAgB&sclient=gws-wiz-serp
+18:23:45.132 START
+18:23:45.184 EnsureCoreWebView2Async calling
+18:23:45.212 FORM_CREATED
+18:23:45.331 INIT fired isSuccess=True err=null
+18:23:45.333 NAVIGATE to StartPage (NavigateToString)
+18:23:45.533 NAVCOMPLETED ok=True err=Unknown src=about:blank
+23:44:41.359 START
+23:44:41.407 START
+23:44:41.429 EnsureCoreWebView2Async calling
+23:44:41.457 FORM_CREATED
+23:44:41.467 EnsureCoreWebView2Async calling
+23:44:41.496 FORM_CREATED
+23:44:45.204 INIT fired isSuccess=False err=System.Runtime.InteropServices.COMException (0x80004004): Операция прервана (Исключение из HRESULT: 0x80004004 (E_ABORT))
+   в System.Runtime.InteropServices.Marshal.ThrowExceptionForHRInternal(Int32 errorCode, IntPtr errorInfo)
+   в Microsoft.Web.WebView2.Core.CoreWebView2Environment.<CreateCoreWebView2ControllerAsync>d__102.MoveNext()
+--- Конец трассировка стека из предыдущего расположения, где возникло исключение ---
+   в System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   в System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   в Microsoft.Web.WebView2.WinForms.WebView2.<InitCoreWebView2Async>d__25.MoveNext()
+23:44:45.231 EXITED
+23:44:48.025 START
+23:44:48.077 EnsureCoreWebView2Async calling
+23:44:48.100 FORM_CREATED
+23:44:48.377 INIT fired isSuccess=True err=null
+23:44:48.378 NAVIGATE to start.html file
+23:44:51.381 INIT fired isSuccess=False err=System.Runtime.InteropServices.COMException (0x80004004): Операция прервана (Исключение из HRESULT: 0x80004004 (E_ABORT))
+   в System.Runtime.InteropServices.Marshal.ThrowExceptionForHRInternal(Int32 errorCode, IntPtr errorInfo)
+   в Microsoft.Web.WebView2.Core.CoreWebView2Environment.<CreateCoreWebView2ControllerAsync>d__102.MoveNext()
+--- Конец трассировка стека из предыдущего расположения, где возникло исключение ---
+   в System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   в System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   в Microsoft.Web.WebView2.WinForms.WebView2.<InitCoreWebView2Async>d__25.MoveNext()
+23:44:51.383 EXITED
+23:44:53.278 NAVCOMPLETED ok=False err=ConnectionAborted src=about:blank
+23:44:53.533 NAVCOMPLETED ok=False err=ConnectionAborted src=about:blank
+23:44:55.357 NAVCOMPLETED ok=True err=Unknown src=file:///C:/Users/%D0%94%D0%B0%D0%BD%D0%B8%D0%B8%D0%BB/Documents/MultiTool/HomeChats/Chat-16/start.html
+23:45:29.837 NAVCOMPLETED ok=True err=Unknown src=file:///C:/Users/%D0%94%D0%B0%D0%BD%D0%B8%D0%B8%D0%BB/Documents/MultiTool/HomeChats/Chat-16/start.html
+23:45:30.024 NAVCOMPLETED ok=True err=Unknown src=file:///C:/Users/%D0%94%D0%B0%D0%BD%D0%B8%D0%B8%D0%BB/Documents/MultiTool/HomeChats/Chat-16/start.html
+23:45:30.676 NAVCOMPLETED ok=True err=Unknown src=file:///C:/Users/%D0%94%D0%B0%D0%BD%D0%B8%D0%B8%D0%BB/Documents/MultiTool/HomeChats/Chat-16/start.html
+23:45:30.852 NAVCOMPLETED ok=True err=Unknown src=file:///C:/Users/%D0%94%D0%B0%D0%BD%D0%B8%D0%B8%D0%BB/Documents/MultiTool/HomeChats/Chat-16/start.html
+23:45:31.064 NAVCOMPLETED ok=True err=Unknown src=file:///C:/Users/%D0%94%D0%B0%D0%BD%D0%B8%D0%B8%D0%BB/Documents/MultiTool/HomeChats/Chat-16/start.html
+23:45:31.268 NAVCOMPLETED ok=True err=Unknown src=file:///C:/Users/%D0%94%D0%B0%D0%BD%D0%B8%D0%B8%D0%BB/Documents/MultiTool/HomeChats/Chat-16/start.html
+23:45:31.485 NAVCOMPLETED ok=True err=Unknown src=file:///C:/Users/%D0%94%D0%B0%D0%BD%D0%B8%D0%B8%D0%BB/Documents/MultiTool/HomeChats/Chat-16/start.html
+23:45:32.079 NAVCOMPLETED ok=True err=Unknown src=file:///C:/Users/%D0%94%D0%B0%D0%BD%D0%B8%D0%B8%D0%BB/Documents/MultiTool/HomeChats/Chat-16/start.html
+23:45:32.595 NAVCOMPLETED ok=True err=Unknown src=file:///C:/Users/%D0%94%D0%B0%D0%BD%D0%B8%D0%B8%D0%BB/Documents/MultiTool/HomeChats/Chat-16/start.html
+23:45:32.817 NAVCOMPLETED ok=True err=Unknown src=file:///C:/Users/%D0%94%D0%B0%D0%BD%D0%B8%D0%B8%D0%BB/Documents/MultiTool/HomeChats/Chat-16/start.html
+23:45:56.671 NAVCOMPLETED ok=False err=ConnectionAborted src=file:///C:/Users/%D0%94%D0%B0%D0%BD%D0%B8%D0%B8%D0%BB/Documents/MultiTool/HomeChats/Chat-16/start.html
+23:45:57.234 NAVCOMPLETED ok=True err=Unknown src=file:///C:/Users/%D0%94%D0%B0%D0%BD%D0%B8%D0%B8%D0%BB/Documents/MultiTool/HomeChats/Chat-16/start.html
+23:55:19.490 START
+23:55:19.735 EnsureCoreWebView2Async calling
+23:55:19.760 FORM_CREATED
+23:55:20.183 INIT fired isSuccess=True err=null
+23:55:20.185 NAVIGATE to start.html file
+23:55:20.445 NAVCOMPLETED ok=True err=Unknown src=file:///C:/Users/%D0%94%D0%B0%D0%BD%D0%B8%D0%B8%D0%BB/Documents/MultiTool/HomeChats/Chat-16/home.html
+23:55:47.747 NAVCOMPLETED ok=True err=Unknown src=https://ya.ru/showcaptcha?form-fb-hint=1.1&mt=1B29FBB78B6AE62E6EBE8C705D4F4B9BEEAF888467EB2A02B6D2C7271CB43C9DC767314C9A4D8BF74E1FA00C60A9F393C83D013F871008FFC33E4B1F660EC811D1EDC31E1C801B2914C9E905D07AC84C11D8A8EF705045CE4DF465816BEF5D96E74900A9091ABDF8480C0E806DED980EE0FF77009DA6F1D37434AB27BD48433F6FDC9B671C42&retpath=aHR0cHM6Ly95YS5ydS9zZWFyY2g_dGV4dD0lRDAlQjQlRDAlQkIlRDAlQjc%2C_bf929dc4ab801142bcd0541ef21300b1&t=2%252F1791838544%252F3d1b6e8b4dd5e5446327f4cb140c0d90&u=9567784726123666611&s=f455a1905b076a81aa6b4e865f2d9c08
+23:55:54.594 NAVCOMPLETED ok=True err=Unknown src=https://ya.ru/showcaptcha?form-fb-hint=7.1&mt=2F27825459B5402F51CBDEBD07A41928238D62649357E0116BF522988859E7010BFBCD8F8751C86AA1FFB32EF690EA1254061E2A8B809FED75DA6008DA1F8AB22F0AA1A27AFC0732DF9632D8296CE0F1B5D5C668E4F124C6522F709DE71E7E5AA7E7B0CEC329021F5833C7969605AA261C280DD631A26AF62A80383526CFF2FFEAB76566BCA9D0EB&retpath=aHR0cHM6Ly95YS5ydS9zZWFyY2g_dGV4dD0lRDAlQjQlRDAlQkIlRDAlQjc%2C_bf929dc4ab801142bcd0541ef21300b1&t=4%252F1791838544%252F3d1b6e8b4dd5e5446327f4cb140c0d90&u=9567784726123666611&s=15f6dbf20d2db63a57c516db031a9527
+23:56:05.965 NAVCOMPLETED ok=True err=Unknown src=https://ya.ru/search?text=%D0%B4%D0%BB%D0%B7&lr=9
+23:57:42.927 EnsureCoreWebView2Async calling
+23:57:42.959 INIT fired isSuccess=True err=null
+23:57:42.959 NAVIGATE to https://ya.ru/search?text=%D0%B4%D0%BB%D0%B7&lr=9
+23:57:44.768 NAVCOMPLETED ok=True err=Unknown src=https://ya.ru/search?text=%D0%B4%D0%BB%D0%B7&lr=9
+23:57:51.181 NAVCOMPLETED ok=True err=Unknown src=file:///C:/Users/%D0%94%D0%B0%D0%BD%D0%B8%D0%B8%D0%BB/Documents/MultiTool/HomeChats/Chat-16/home.html
+18:27:45.802 START
+18:27:45.858 EnsureCoreWebView2Async calling
+18:27:45.884 FORM_CREATED
+18:27:46.406 INIT fired isSuccess=True err=null
+18:27:46.408 NAVIGATE to start.html file
+18:27:46.643 NAVCOMPLETED ok=True err=Unknown src=file:///C:/Users/%D0%94%D0%B0%D0%BD%D0%B8%D0%B8%D0%BB/Documents/MultiTool/HomeChats/Chat-16/home.html
+22:15:16.074 START
+22:15:16.211 EnsureCoreWebView2Async calling
+22:15:16.258 FORM_CREATED
+22:15:16.733 INIT fired isSuccess=True err=null
+22:15:16.735 NAVIGATE to start.html file
+22:15:17.002 NAVCOMPLETED ok=True err=Unknown src=file:///C:/Users/%D0%94%D0%B0%D0%BD%D0%B8%D0%B8%D0%BB/Documents/MultiTool/HomeChats/Chat-16/home.html
+20:50:19.998 START
+20:50:20.116 EnsureCoreWebView2Async calling
+20:50:20.179 FORM_CREATED
+20:50:20.654 INIT fired isSuccess=True err=null
+20:50:20.656 NAVIGATE to C:\Users\Даниил\Documents\MultiTool\HomeChats\Chat-16\welcome.html
+20:50:20.889 NAVCOMPLETED ok=True err=Unknown src=file:///C:/Users/%D0%94%D0%B0%D0%BD%D0%B8%D0%B8%D0%BB/Documents/MultiTool/HomeChats/Chat-16/welcome.html
+20:50:22.827 NAVCOMPLETED ok=True err=Unknown src=file:///C:/Users/%D0%94%D0%B0%D0%BD%D0%B8%D0%B8%D0%BB/Documents/MultiTool/HomeChats/Chat-16/home.html
+20:50:25.738 EXITED
+20:50:27.089 START
+20:50:27.146 EnsureCoreWebView2Async calling
+20:50:27.174 FORM_CREATED
+20:50:27.435 INIT fired isSuccess=True err=null
+20:50:27.436 NAVIGATE to file:///C:/Users/%D0%94%D0%B0%D0%BD%D0%B8%D0%B8%D0%BB/Documents/MultiTool/HomeChats/Chat-16/home.html
+20:50:27.647 NAVCOMPLETED ok=True err=Unknown src=file:///C:/Users/%D0%94%D0%B0%D0%BD%D0%B8%D0%B8%D0%BB/Documents/MultiTool/HomeChats/Chat-16/home.html
+20:50:45.440 NAVCOMPLETED ok=True err=Unknown src=https://ya.ru/search/?text=%D0%BB%D1%8F&lr=9
+20:51:30.367 START
+20:51:30.416 EnsureCoreWebView2Async calling
+20:51:30.440 FORM_CREATED
+20:51:30.540 INIT fired isSuccess=True err=null
+20:51:30.541 NAVIGATE to file:///C:/Users/%D0%94%D0%B0%D0%BD%D0%B8%D0%B8%D0%BB/Documents/MultiTool/HomeChats/Chat-16/home.html
+20:51:30.700 NAVCOMPLETED ok=True err=Unknown src=file:///C:/Users/%D0%94%D0%B0%D0%BD%D0%B8%D0%B8%D0%BB/Documents/MultiTool/HomeChats/Chat-16/home.html
+20:52:37.008 NAVCOMPLETED ok=True err=Unknown src=https://www.wikipedia.org/
+20:52:39.685 NAVCOMPLETED ok=True err=Unknown src=file:///C:/Users/%D0%94%D0%B0%D0%BD%D0%B8%D0%B8%D0%BB/Documents/MultiTool/HomeChats/Chat-16/home.html
+20:54:18.994 NAVCOMPLETED ok=True err=Unknown src=https://www.google.com/
