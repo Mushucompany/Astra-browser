@@ -1,6 +1,6 @@
-# Мой браузер
+# Astra Browser
 
-Лёгкий настольный браузер для Windows на современном движке **WebView2 (Chromium)**. Собирается из исходного кода в один `.exe` штатным компилятором C# — без Visual Studio и без установки NuGet-пакетов.
+Лёгкий настольный браузер для Windows на современном движке **WebView2 (Chromium)**. Версия 7.7. Собирается из исходного кода в один `.exe` штатным компилятором C# — без Visual Studio и без установки NuGet-пакетов.
 
 ## Возможности
 
@@ -10,12 +10,13 @@
 - **Поисковая строка** (Яндекс) и **настраиваемая главная страница** — отдельный HTML-файл `home.html`, который можно править без пересборки.
 - **Живые часы, дата, быстрые ссылки** и **логотип** на главной странице.
 - **Страница приветствия** после установки (`welcome.html`) — показывается один раз.
-- **Установщик** — копирует файлы в `AppData\Local\Мой браузер` и создаёт ярлыки на рабочем столе и в меню «Пуск».
+- **Установщик** — копирует файлы в `AppData\Local\Astra Browser` и создаёт ярлыки на рабочем столе и в меню «Пуск».
 - **Иконка приложения** и собственная иконка сайта (генерируются скриптом).
 
 ## Скриншот
 
 ![Логотип](logo.png)
+![Гифка](Запись 2026-11-01 113851.mp4)
 
 ## Технологии
 
@@ -28,7 +29,7 @@
 Компиляция браузера из исходника:
 
 ```
-csc.exe /target:winexe /win32icon:browser.ico /out:"Мой браузер.exe" ^
+csc.exe /target:winexe /win32icon:astra_icon.ico /out:"Astra Browser.exe" ^
   /reference:Microsoft.Web.WebView2.Core.dll ^
   /reference:Microsoft.Web.WebView2.WinForms.dll ^
   /reference:System.Windows.Forms.dll ^
@@ -38,7 +39,7 @@ csc.exe /target:winexe /win32icon:browser.ico /out:"Мой браузер.exe" ^
 Сборка установщика:
 
 ```
-csc.exe /target:winexe /out:"Установка Мой браузер.exe" ^
+csc.exe /target:winexe /out:"Установка Astra Browser.exe" ^
   /reference:System.Windows.Forms.dll ^
   /reference:System.Drawing.dll ^
   /reference:System.dll installer.cs
@@ -57,10 +58,17 @@ csc.exe /target:winexe /out:"Установка Мой браузер.exe" ^
 | `installer.cs` | Исходный код установщика |
 | `makeicon.cs` | Генератор иконки приложения и логотипа |
 | `home.html` | Главная страница (редактируемая) |
+| `home_77.html` | Прототип главной (архив) |
+| `theme_classic.html` | Тема «Классическая» |
+| `theme_blue.html` | Тема «Синяя» |
+| `theme_light.html` | Тема «Светлая» |
+| `settings.html` | Экран настроек |
+| `files.html` | Файловый менеджер (вкладка) |
 | `welcome.html` | Страница приветствия после установки |
+| `license.html` | Лицензионное соглашение (Ctrl+Shift+L) |
 | `start.html` | Справочная страница-руководство |
-| `logo.png` | Логотип на главной странице |
-| `browser.ico` | Иконка приложения |
+| `astra_logo.png` | Логотип Astra |
+| `astra_icon.ico` | Иконка приложения |
 | `Microsoft.Web.WebView2.*.dll` | Библиотеки WebView2 для запуска |
 | `WebView2Loader.dll` | Загрузчик WebView2 (обязателен рядом с exe) |
 
@@ -68,7 +76,7 @@ csc.exe /target:winexe /out:"Установка Мой браузер.exe" ^
 
 ## Запуск
 
-Проще всего использовать установщик (`Установка Мой браузер.exe`) — он скопирует файлы и создаст ярлыки. Либо запустить `Мой браузер.exe` прямо из папки.
+Проще всего использовать установщик (`Установка Astra Browser.exe`) — он скопирует файлы и создаст ярлыки. Либо запустить `Astra Browser.exe` прямо из папки.
 
 ## Лицензия
 
