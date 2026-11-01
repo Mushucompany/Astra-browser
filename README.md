@@ -14,10 +14,7 @@
 - **Иконка приложения** и собственная иконка сайта (генерируются скриптом).
 
 ## Скриншот
-
-![Логотип](logo.png)
-![Гифка](Запись 2026-11-01 113851.mp4)
-
+<img width="189" height="182" alt="astra_logo" src="https://github.com/user-attachments/assets/1f512b86-525f-4bbc-bf32-33550a45d9c1" />
 ## Технологии
 
 - **C# / .NET Framework 4.x**, Windows Forms
